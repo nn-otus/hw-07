@@ -188,7 +188,7 @@ Redirecting to /bin/systemctl start nginx.service
 </html>
 [root@alma96srv07 x86_64]# lynx http://localhost/repo/
 ```
-● Все готово для того, чтобы протестировать репозиторий.
+● Все готово для того, чтобы протестировать репозиторий  
 ● Добавим его в /etc/yum.repos.d:
 ```
 [root@alma96srv07 x86_64]# cat >> /etc/yum.repos.d/otus.repo << EOF
