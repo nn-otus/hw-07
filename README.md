@@ -258,7 +258,7 @@ Complete!
 [root@alma96srv07 repo]#
 ```
 ![Скриншот браузера]([https://github.com/nn-otus/hw-07.git/raw/master/hw-07_repo_screen.png])
-
+![Скриншот браузера](hw-07_repo_screen.png)
 ● Все прошло успешно. В случае, если потребуется обновить репозиторий (это
 делается при каждом добавлении файлов) снова, нужно выполнить команду
 createrepo /usr/share/nginx/html/repo/.
